@@ -2749,11 +2749,6 @@
                          "value":"NoDiggityDoorStep"
                         }, 
                         {
-                         "name":"tag",
-                         "type":"string",
-                         "value":"admin"
-                        }, 
-                        {
                          "name":"zone",
                          "type":"string",
                          "value":"NoDiggityDoorStep"
@@ -2866,11 +2861,6 @@
                          "name":"doorVariable",
                          "type":"string",
                          "value":"GreenoflexDoorStep"
-                        }, 
-                        {
-                         "name":"tag",
-                         "type":"string",
-                         "value":"admin"
                         }, 
                         {
                          "name":"zone",
@@ -2987,11 +2977,6 @@
                          "value":"LeadersThinkDoorStep"
                         }, 
                         {
-                         "name":"tag",
-                         "type":"string",
-                         "value":"admin"
-                        }, 
-                        {
                          "name":"zone",
                          "type":"string",
                          "value":"LeadersThinkDoorStep"
@@ -3104,11 +3089,6 @@
                          "name":"doorVariable",
                          "type":"string",
                          "value":"FacilitatedLearningDoorStep"
-                        }, 
-                        {
-                         "name":"tag",
-                         "type":"string",
-                         "value":"admin"
                         }, 
                         {
                          "name":"zone",
@@ -3225,11 +3205,6 @@
                          "value":"VibratoValleyDoorStep"
                         }, 
                         {
-                         "name":"tag",
-                         "type":"string",
-                         "value":"admin"
-                        }, 
-                        {
                          "name":"zone",
                          "type":"string",
                          "value":"VibratoValleyDoorStep"
@@ -3342,11 +3317,6 @@
                          "name":"doorVariable",
                          "type":"string",
                          "value":"OptionsChamberDoorStep"
-                        }, 
-                        {
-                         "name":"tag",
-                         "type":"string",
-                         "value":"admin"
                         }, 
                         {
                          "name":"zone",
@@ -3463,11 +3433,6 @@
                          "value":"MerrilWillowDoorStep"
                         }, 
                         {
-                         "name":"tag",
-                         "type":"string",
-                         "value":"admin"
-                        }, 
-                        {
                          "name":"zone",
                          "type":"string",
                          "value":"MerrilWillowDoorStep"
@@ -3580,11 +3545,6 @@
                          "name":"doorVariable",
                          "type":"string",
                          "value":"TheBatcaveDoorStep"
-                        }, 
-                        {
-                         "name":"tag",
-                         "type":"string",
-                         "value":"admin"
                         }, 
                         {
                          "name":"zone",
@@ -3701,11 +3661,6 @@
                          "value":"DangyPotsDoorStep"
                         }, 
                         {
-                         "name":"tag",
-                         "type":"string",
-                         "value":"admin"
-                        }, 
-                        {
                          "name":"zone",
                          "type":"string",
                          "value":"DangyPotsDoorStep"
@@ -3818,11 +3773,6 @@
                          "name":"doorVariable",
                          "type":"string",
                          "value":"HarmonyStudioDoorStep"
-                        }, 
-                        {
-                         "name":"tag",
-                         "type":"string",
-                         "value":"admin"
                         }, 
                         {
                          "name":"zone",
